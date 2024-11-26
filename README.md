@@ -16,5 +16,5 @@
   TARGET_USER=@BotFather or whatever
 " > .env`
 - `poetry install`
-- `poetry run python download.py` (`>> /data/database.json`)
+- `poetry run python download.py` (`--chat-id @DailyFingerpori >> /data/database.json`)
 
